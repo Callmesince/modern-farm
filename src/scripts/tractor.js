@@ -27,7 +27,7 @@ export let plantSeeds = (yearPlan) => {
 
             addPlant(createAsparagus())
          }
-         else if ( plant === "potato") {
+         else if ( plant === "Potato") {
             addPlant(createPotato())
          }
 
